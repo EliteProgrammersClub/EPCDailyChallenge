@@ -27,7 +27,7 @@ git clone https://github.com/EliteProgrammersClub/EPCDailyChallenge
 ```
 
 ### 💡 Usage
-- Navigate to the Issue tab [_Here_](https://www.example.com)
+- Navigate to the Issue tab [_Here_](https://github.com/EliteProgrammersClub/EPCDailyChallenge/issues)
 - Choose a convenient issue you will like to solve and Click through to get a description
 - On the right handside of your window click the ⚙️ emoji and assign yourself to the issue by typing your github handle in the text box
 - If you are not able to assign yourself, comment on the issue with the text `Assign me` by either tagging [@xaster-Kies](https://github.com/xaster-Kies) or [@wandji69](https://github.com/wandji69) and you will be added shortly
