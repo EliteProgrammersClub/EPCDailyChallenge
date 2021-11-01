@@ -30,7 +30,7 @@ git clone https://github.com/EliteProgrammersClub/EPCDailyChallenge
 - Navigate to the Issue tab [_Here_](https://www.example.com)
 - Choose a convenient issue you will like to solve and Click through to get a description
 - On the right handside of you window click the ⚙️ emoji and assign yourself to the issue by typing your github handle in the text box
-- If you are not able to assign yourself, comment on the issue by either tagging [@xaster-Kies](https://github.com/xaster-Kies) or [@wandji69](https://github.com/wandji69) and you will be added shortly
+- If you are not able to assign yourself, comment on the issue with the text `Assign me` by either tagging [@xaster-Kies](https://github.com/xaster-Kies) or [@wandji69](https://github.com/wandji69) and you will be added shortly
 
   `NOTE: it is very important for you to assign yourself to an issue so you get credits to the issue when it is solved!`
 - Once you solve the issue, Make sure you do it with respect to the Current month folder, day and language you are doing this in.
