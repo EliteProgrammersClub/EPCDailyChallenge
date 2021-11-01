@@ -12,7 +12,7 @@
 ###  📢 General Information
 > These Daily challenges are aimed at growing your programming skills and refining your logical thinking. You commuting to     this challenge is a personal commute in becoming a better programmer.\
 \
-> You can attempt any of these [_Issues_](https://www.example.com) 
+> You can attempt any of these [_Issues_](https://github.com/EliteProgrammersClub/EPCDailyChallenge/issues) 
 
 
 ### 💻 Languages
