@@ -1,17 +1,28 @@
 /*
 	*** A SIMPLE PROGRAM TO REVERSE AN INTEGER IN C ***
 
-	by: Jan
+	by: Agyingi Jan Royal
 */
 #include<stdio.h>
 
 
 int reverseInt(int num){
-	 int reverse = 0;
+
+	//to hold the reversed integer
+	int reverse = 0;
+
+
 	while(num!=0){
-		reverse = (reverse * 10) + (num%10);
+		
+		//(num % 10) gets  the least significant digit of num 
+		//and is then appended to the end of reverse.
+		reverse = (reverse * 10) + (num % 10);
+		
+		//divide num by 10 to delete the least significant digit
+		// e.g 13/10 = 1; (integer division)  
 		num = num/10;
 	}
+
 return reverse;
 }
 
