@@ -5,8 +5,8 @@
 // but we know BMI = mass/height**2
 
 let age = prompt("Enter your age");  // prompt the user to enter he or she age
-let weight= prompt("Enter your weight ");   // prompt the user to enter he or she age
-let height= prompt("Enter your height");   // prompt the user to enter he or she age
+let weight= prompt("Enter your weight ");   // prompt the user to enter he or she weight
+let height= prompt("Enter your height");   // prompt the user to enter he or she height
 const BMI = weight / (height ** 2);  // formula of Body Mass Index
 
 function bmi() {
